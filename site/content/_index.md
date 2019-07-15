@@ -1,7 +1,7 @@
 ---
 title: via valet
 subtitle: doorstep trash pickup service
-image: /img/home-jumbotron.jpg
+image: /img/vvt-flyer2-2-.png
 blurb:
   heading: Why Kaldi?
   text: >-
