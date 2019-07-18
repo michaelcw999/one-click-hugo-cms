@@ -7,7 +7,6 @@ sections:
 - type: document
   path: document
   label: document
-  match: "**/*"
 - type: directory
   path: content
   label: directory
@@ -16,7 +15,7 @@ sections:
 - type: heading
   label: headings
 - type: directory
-  path: content
+  path: pages
   label: Pages
   create: all
   match: "*"
